@@ -10,8 +10,8 @@ y额改了
 6. 6666
 7. 时间
 8. 时间表
-9. timetable
-10. timetable
+9. timetable (时间表 ,时刻表)
+10. timetable (时间表 ,时刻表)
 11. reaitime
 12. 132456
 13. 123
